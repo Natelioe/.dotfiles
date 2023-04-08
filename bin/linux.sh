@@ -22,5 +22,5 @@ fi
 #overwrites the contents of etc/vim to .vimrc in home directory
 cat etc/vimrc > ~/.vimrc
 #writes the statment to the .bashrc in home directory
-echo "source ∼/.dotfiles/etc/bashrc_custom" >> ~/.bashrc
+echo "source /acct/lioeatjn/.dotfiles/etc/bashrc_custom" >> ~/.bashrc
 
